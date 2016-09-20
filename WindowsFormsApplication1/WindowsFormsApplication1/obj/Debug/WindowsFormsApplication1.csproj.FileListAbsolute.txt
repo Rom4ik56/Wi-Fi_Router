@@ -1,0 +1,32 @@
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wi_Fi вышка.exe.config
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wi_Fi вышка.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wi_Fi вышка.pdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wi_Fi вышка.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wi_Fi вышка.pdb
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wi_Fi вышка.exe.config
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wi_Fi вышка.exe
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wi_Fi вышка.pdb
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wi_Fi вышка.exe
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wi_Fi вышка.pdb
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asss\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wi_Fi вышка.exe.config
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wi_Fi вышка.exe
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Wi_Fi вышка.pdb
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wi_Fi вышка.exe
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Wi_Fi вышка.pdb
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mmnmn\Desktop\ПРАКТИКА\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
